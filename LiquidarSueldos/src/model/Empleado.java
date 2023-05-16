@@ -7,7 +7,7 @@ public abstract class Empleado {
     private String cuenta;
     private double sueldo;
 
-    public Empleado(String nombre, String apellido, String cuenta, int sueldo) {
+    public Empleado(String nombre, String apellido, String cuenta, double sueldo) {
         this.nombre = nombre;
         this.apellido = apellido;
         this.cuenta = cuenta;

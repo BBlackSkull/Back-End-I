@@ -6,7 +6,7 @@ public class Efectivo extends Empleado {
     private double sueldoBasico;
     private double descuentos;
     private double premios;
-    public Efectivo(String nombre, String apellido, String cuenta,int sueldo, double sueldoBasico, double descuentos,
+    public Efectivo(String nombre, String apellido, String cuenta,double sueldo, double sueldoBasico, double descuentos,
                     double premios) {
         super(nombre, apellido, cuenta,sueldo);
         this.sueldoBasico = sueldoBasico;
