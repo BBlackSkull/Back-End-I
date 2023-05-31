@@ -1,0 +1,5 @@
+INFO    2023-05-24 18:20:19,769 [main] ListaPromedio  - La Longitud de la lista es mayor a 5
+ERROR   2023-05-24 18:20:19,773 [main] Test  - La lista es igual a cero 
+java.lang.Exception
+	at ListaPromedio.<init>(ListaPromedio.java:17)
+	at Test.main(Test.java:21)
